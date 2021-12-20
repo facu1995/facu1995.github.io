@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.595383d6.chunk.css",
+    "main.js": "/static/js/main.b35f7ac0.chunk.js",
+    "main.js.map": "/static/js/main.b35f7ac0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a1bfce0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a1bfce0.js.map",
+    "static/js/2.9f6acb6d.chunk.js": "/static/js/2.9f6acb6d.chunk.js",
+    "static/js/2.9f6acb6d.chunk.js.map": "/static/js/2.9f6acb6d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.595383d6.chunk.css.map": "/static/css/main.595383d6.chunk.css.map",
+    "static/js/2.9f6acb6d.chunk.js.LICENSE.txt": "/static/js/2.9f6acb6d.chunk.js.LICENSE.txt",
+    "static/media/PokeBall.0ae55d07.png": "/static/media/PokeBall.0ae55d07.png",
+    "static/media/CardUsers.css": "/static/media/e7.cf0302df.png",
+    "static/media/nav_principal.css": "/static/media/pokeball2.8956d521.png",
+    "static/media/spinner5.94cd27f1.gif": "/static/media/spinner5.94cd27f1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a1bfce0.js",
+    "static/js/2.9f6acb6d.chunk.js",
+    "static/css/main.595383d6.chunk.css",
+    "static/js/main.b35f7ac0.chunk.js"
+  ]
+}
